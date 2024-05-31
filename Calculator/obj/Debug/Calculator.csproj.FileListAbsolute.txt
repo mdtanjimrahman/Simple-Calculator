@@ -1,0 +1,10 @@
+C:\.TANJIM\VARSITY\Fall 23-24\OOP2\Codes\Calculatorsln\Calculator\bin\Debug\Calculator.exe.config
+C:\.TANJIM\VARSITY\Fall 23-24\OOP2\Codes\Calculatorsln\Calculator\bin\Debug\Calculator.exe
+C:\.TANJIM\VARSITY\Fall 23-24\OOP2\Codes\Calculatorsln\Calculator\bin\Debug\Calculator.pdb
+C:\.TANJIM\VARSITY\Fall 23-24\OOP2\Codes\Calculatorsln\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+C:\.TANJIM\VARSITY\Fall 23-24\OOP2\Codes\Calculatorsln\Calculator\obj\Debug\Calculator.Calculator.resources
+C:\.TANJIM\VARSITY\Fall 23-24\OOP2\Codes\Calculatorsln\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\.TANJIM\VARSITY\Fall 23-24\OOP2\Codes\Calculatorsln\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\.TANJIM\VARSITY\Fall 23-24\OOP2\Codes\Calculatorsln\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\.TANJIM\VARSITY\Fall 23-24\OOP2\Codes\Calculatorsln\Calculator\obj\Debug\Calculator.exe
+C:\.TANJIM\VARSITY\Fall 23-24\OOP2\Codes\Calculatorsln\Calculator\obj\Debug\Calculator.pdb
